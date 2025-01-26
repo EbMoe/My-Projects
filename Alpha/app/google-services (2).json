@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1064967609460",
+    "firebase_url": "https://alpha-a2a66-default-rtdb.firebaseio.com",
+    "project_id": "alpha-a2a66",
+    "storage_bucket": "alpha-a2a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064967609460:android:e8fa3ebb5e236575520521",
+        "android_client_info": {
+          "package_name": "com.alpha.eventplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064967609460-bc5i1sel8b8c8pc785td4m7dfaplpe8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.eventplanner",
+            "certificate_hash": "410f90e862fc36fe014fc3ebd4758272670ebd1c"
+          }
+        },
+        {
+          "client_id": "1064967609460-jpuk7o59v4am8801vfiikceqqn0gj4cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.eventplanner",
+            "certificate_hash": "a291133951a6916fc1680cc08f466a4d4011b0a5"
+          }
+        },
+        {
+          "client_id": "1064967609460-toce3uu7nqkihb4ubteru9883debdf56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8Zw49A4nrfNHLB3oNrD3TnPpbRt2KG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064967609460-toce3uu7nqkihb4ubteru9883debdf56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064967609460:android:2d62963fb5569c62520521",
+        "android_client_info": {
+          "package_name": "com.example.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064967609460-088ga1j7u0r8locq3s4kvr74ff1ie2p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alpha",
+            "certificate_hash": "410f90e862fc36fe014fc3ebd4758272670ebd1c"
+          }
+        },
+        {
+          "client_id": "1064967609460-toce3uu7nqkihb4ubteru9883debdf56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8Zw49A4nrfNHLB3oNrD3TnPpbRt2KG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064967609460-toce3uu7nqkihb4ubteru9883debdf56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

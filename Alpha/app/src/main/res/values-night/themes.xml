@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Alpha" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#7EB3FB</item>
+        <item name="colorPrimaryVariant">#7EB3FB</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#7EB3FB</item>
+        <item name="colorSecondaryVariant">#7EB3FB</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#7EB3FB</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:actionOverflowButtonStyle">@style/CustomOverflowStyle</item>
+    </style>
+    <style name="CustomOverflowStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:tint">@color/colorPrimary</item>
+    </style>
+</resources>

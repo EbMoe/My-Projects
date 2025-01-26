@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/action_faq"
+        android:title="@string/faq"/>
+    <item
+        android:id="@+id/action_privacy"
+        android:title="@string/privacy_policy"/>
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/share"/>
+
+</menu>

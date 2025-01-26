@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FaqActivity"
+    android:background="#00FFFFFF">
+
+
+    <TextView
+        android:id="@+id/titleFaq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FAQ"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="?attr/colorOnSurface"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="24dp" />
+
+
+    <ScrollView
+        android:id="@+id/faqScrollView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toBottomOf="@id/titleFaq"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_margin="16dp">
+
+        <LinearLayout
+            android:id="@+id/faqContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:divider="?attr/dividerVertical"
+            android:showDividers="middle">
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardBackgroundColor="?attr/colorSurface"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/question1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/q1_how_do_i_create_an_event"
+                        android:textSize="18sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:textStyle="bold"
+                        android:onClick="toggleAnswer1" />
+
+                    <TextView
+                        android:id="@+id/answer1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/to_create_an_event_follow_the_labels_on_the_event_creation_screen"
+                        android:textSize="16sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardBackgroundColor="?attr/colorSurface"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/question2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/q2_how_can_i_edit_or_delete_an_event"
+                        android:textSize="18sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:textStyle="bold"
+                        android:onClick="toggleAnswer2" />
+
+                    <TextView
+                        android:id="@+id/answer2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/to_edit_or_delete_an_event_tap_on_the_event_in_the_list_you_will_see_options_to_edit_or_delete_it"
+                        android:textSize="16sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardBackgroundColor="?attr/colorSurface"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/question3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/q3_how_do_i_sync_my_events_across_devices"
+                        android:textSize="18sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:textStyle="bold"
+                        android:onClick="toggleAnswer3" />
+
+                    <TextView
+                        android:id="@+id/answer3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/your_events_are_synced_using_jsonbin_a_cloud_based_json_storage_service_make_sure_you_are_connected_to_the_internet_for_real_time_synchronization"
+                        android:textSize="16sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardBackgroundColor="?attr/colorSurface"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/question4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/q4_what_happens_if_the_network_goes_down"
+                        android:textSize="18sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:textStyle="bold"
+                        android:onClick="toggleAnswer4" />
+
+                    <TextView
+                        android:id="@+id/answer4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/if_the_network_goes_down_you_can_still_create_events_they_will_be_saved_locally_and_synced_once_the_network_is_restored"
+                        android:textSize="16sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardBackgroundColor="?attr/colorSurface"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/question5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/q5_how_does_the_search_functionality_work"
+                        android:textSize="18sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:textStyle="bold"
+                        android:onClick="toggleAnswer5" />
+
+                    <TextView
+                        android:id="@+id/answer5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/use_the_search_bar_at_the_top_of_the_screen_to_filter_events_by_title_date_or_location_the_list_of_events_will_update_automatically_as_you_type"
+                        android:textSize="16sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                app:cardBackgroundColor="?attr/colorSurface"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/question6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/q6_how_do_i_view_events_on_the_map"
+                        android:textSize="18sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:textStyle="bold"
+                        android:onClick="toggleAnswer6" />
+
+                    <TextView
+                        android:id="@+id/answer6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/to_view_events_on_the_map_navigate_to_the_map_section_of_the_app_you_will_see_all_event_locations_marked_and_you_can_tap_each_marker_for_more_details"
+                        android:textSize="16sp"
+                        android:textColor="?attr/colorOnSurface"
+                        android:padding="16dp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
