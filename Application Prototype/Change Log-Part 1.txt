@@ -1,0 +1,15 @@
+Innovative features:
+
+For part one I have changed my innovative features to assist me in the addition of adding two new features of my own, the previous mentioned features in my part 1 submission were too complex.
+
+Changed the above mentioned to:
+
+• UI: Alpha will incorporate a modern age user-friendly interface which will allow users to 
+seamlessly navigate throughout the application. Ultimately this will enhance user 
+experience and productivity. 
+• Tutorial: I will add a feature that allows users to walk through the application with visual 
+aid and guidelines. 
+• Share feature: Alpha time tracking will allow users to share the information inputted on 
+their timesheet to apps such as the calendar application and various other platforms.
+
+Overall this will assist users and create a better user experience.

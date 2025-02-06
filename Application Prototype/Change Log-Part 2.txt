@@ -1,0 +1,11 @@
+Changes made based on feedback from part 2:
+
+- Updated overall UI making it more modern and user friendly.
+- Updated the view password feature from a text box to a much cleaner eye symbol next to password fields.
+- Added an about page to my application.
+- Code attribution added into readme file.
+- Uploaded onto GitHub correctly.
+- Added Git readme.
+- Fixed minor bugs.
+- Added changelog for part 1.
+- All previous features functioning as before.

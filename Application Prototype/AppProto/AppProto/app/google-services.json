@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856668509303",
+    "project_id": "application-prototype-cfa84",
+    "storage_bucket": "application-prototype-cfa84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856668509303:android:c0cb972c7546650a272272",
+        "android_client_info": {
+          "package_name": "com.example.appproto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLkBALkuCPuIs31n5v99dALpy24Q55T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

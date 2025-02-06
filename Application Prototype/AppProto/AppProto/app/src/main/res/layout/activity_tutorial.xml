@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_background"
+    tools:context=".TutorialActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="196dp"
+        tools:layout_editor_absoluteY="-16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/intro_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Welcome to our App! Here's how to get started:"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/feature1_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="1.Once you are directed to the time sheet entry after login, fill in the task name and description, and set start/end dates and times."
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/feature2_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="2. Viewing Tasks: Press the 'View Records' button to see a list of all created tasks along with their details."
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/feature3_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="3. Camera Access: Use the 'Add Image/Choose or take' button to access the device’s camera for capturing photos related to tasks."
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/feature4_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="4. Task Goals: Input your daily minimum and maximum goals for tasks in the provided fields."
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/btn_show_images"
+                android:layout_width="140sp"
+                android:layout_height="wrap_content"
+                android:text="Show Images"
+                android:backgroundTint="#3F51B5"
+                android:layout_marginTop="16dp"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

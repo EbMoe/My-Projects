@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ScrollView to allow vertical scrolling -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp">
+
+    <!-- Vertical LinearLayout for the images -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- ImageView for the first image -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image1"
+            android:contentDescription="First Step"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- ImageView for the second image -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image2"
+            android:contentDescription="Second Step"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- ImageView for the third image -->
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/image3"
+            android:contentDescription="Third Step"
+            android:layout_marginBottom="8dp"/>
+    </LinearLayout>
+</ScrollView>

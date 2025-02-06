@@ -1,0 +1,1 @@
+Various required functionality of the final POE was implemented in my part 2 submission such as database storing etc.
