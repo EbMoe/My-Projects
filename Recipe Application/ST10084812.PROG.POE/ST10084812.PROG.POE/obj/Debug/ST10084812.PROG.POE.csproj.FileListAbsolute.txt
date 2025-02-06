@@ -1,0 +1,93 @@
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.AssemblyReference.cache
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.baml
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.g.cs
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\App.g.cs
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE_MarkupCompile.cache
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.g.resources
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.Properties.Resources.resources
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.GenerateResource.cache
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.CoreCompileInputs.cache
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.baml
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.g.cs
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe.config
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.g.cs
+C:\Users\ebmoe\source\repos\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.baml
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe.config
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.pdb
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.AssemblyReference.cache
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.baml
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.baml
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.baml
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.g.cs
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.g.cs
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.g.cs
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\App.g.cs
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE_MarkupCompile.cache
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.g.resources
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.Properties.Resources.resources
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.GenerateResource.cache
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.CoreCompileInputs.cache
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.exe
+C:\Users\msval\Downloads\ST10084812.PROG.POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe.config
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.AssemblyReference.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.baml
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.baml
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.baml
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\App.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE_MarkupCompile.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.g.resources
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.Properties.Resources.resources
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.GenerateResource.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.CoreCompileInputs.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\OneDrive\Documents\Documents\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe.config
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.AssemblyReference.cache
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.baml
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.baml
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.baml
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.g.cs
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.g.cs
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.g.cs
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\App.g.cs
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE_MarkupCompile.cache
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.g.resources
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.Properties.Resources.resources
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.GenerateResource.cache
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.CoreCompileInputs.cache
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\OneDrive - ADvTECH Ltd\Second Year [BCAD]\Semester 1\PROG\POE\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe.config
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\bin\Debug\ST10084812.PROG.POE.pdb
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.AssemblyReference.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.baml
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.baml
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.baml
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\AddRecipe.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\MainWindow.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\Menu.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\App.g.cs
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE_MarkupCompile.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.g.resources
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.Properties.Resources.resources
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.GenerateResource.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.csproj.CoreCompileInputs.cache
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.exe
+C:\Users\ebmoe\OneDrive\Documents\Documents\GitHub\My-Projects\Recipe Application\ST10084812.PROG.POE\ST10084812.PROG.POE\obj\Debug\ST10084812.PROG.POE.pdb
