@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="16dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="8dp"
+    android:backgroundTint="#004D40">
+
+    <LinearLayout
+        android:layout_width="@dimen/_280sdp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Event Title -->
+        <TextView
+            android:id="@+id/volunteerEventTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Event Title"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- User Input Fields with Placeholder Styling -->
+        <EditText
+            android:id="@+id/firstName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="First Name"
+            android:layout_marginBottom="8dp"
+            android:backgroundTint="#FFFFFF"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:padding="12dp"/>
+
+        <EditText
+            android:id="@+id/lastName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Last Name"
+            android:layout_marginBottom="8dp"
+            android:backgroundTint="#FFFFFF"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:padding="12dp"/>
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="E-Mail"
+            android:inputType="textEmailAddress"
+            android:layout_marginBottom="8dp"
+            android:backgroundTint="#FFFFFF"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:padding="12dp"/>
+
+        <EditText
+            android:id="@+id/telephone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Telephone"
+            android:inputType="phone"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="#FFFFFF"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:padding="12dp"/>
+
+        <!-- Submit Button with Custom Color Styling -->
+        <Button
+            android:id="@+id/submitVolunteer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:backgroundTint="#4CAF50"> </Button>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

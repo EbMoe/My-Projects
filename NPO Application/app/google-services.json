@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67211650009",
+    "project_id": "nps-champs-server",
+    "storage_bucket": "nps-champs-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67211650009:android:421ab1a7651aa1092c6fc8",
+        "android_client_info": {
+          "package_name": "com.buildbyte.npschamps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXX4OBB8m-CNzNHBY_d1KwiIl1AuhZbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

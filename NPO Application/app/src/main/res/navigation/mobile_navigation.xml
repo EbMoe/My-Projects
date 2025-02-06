@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.buildbyte.npschamps.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.buildbyte.npschamps.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.buildbyte.npschamps.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_event"
+        android:name="com.buildbyte.npschamps.ui.event.Event"
+        android:label="@string/menu_event"
+        tools:layout="@layout/fragment_event" />
+    <fragment
+        android:id="@+id/nav_initiative"
+        android:name="com.buildbyte.npschamps.ui.initiative.Initiative"
+        android:label="@string/menu_initiative"
+        tools:layout="@layout/fragment_initiative" />
+    <fragment
+        android:id="@+id/nav_privacy"
+        android:name="com.buildbyte.npschamps.ui.privacy.Privacy"
+        android:label="@string/menu_privacy"
+        tools:layout="@layout/fragment_privacy" />
+    <fragment
+        android:id="@+id/nav_donation"
+        android:name="com.buildbyte.npschamps.ui.donation.Donation"
+        android:label="@string/menu_donation"
+        tools:layout="@layout/fragment_donation" />
+    <fragment
+        android:id="@+id/nav_feedback"
+        android:name="com.buildbyte.npschamps.ui.feedback.Feedback"
+        android:label="@string/menu_feedback"
+        tools:layout="@layout/fragment_feedback" />
+</navigation>

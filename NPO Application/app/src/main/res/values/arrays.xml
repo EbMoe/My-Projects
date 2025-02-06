@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volunteer_types">
+        <item>Volunteer Type 1</item>
+        <item>Volunteer Type 2</item>
+        <item>Volunteer Type 3</item>
+        <item>Volunteer Type 4</item>
+        <item>Volunteer Type 5</item>
+        <item>Volunteer Type 6</item>
+        <item>Volunteer Type 7</item>
+        <item>Volunteer Type 8</item>
+        <item>Volunteer Type 9</item>
+        <item>Volunteer Type 10</item>
+    </string-array>
+</resources>

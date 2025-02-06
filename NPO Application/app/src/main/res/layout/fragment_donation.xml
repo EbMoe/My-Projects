@@ -1,0 +1,164 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.donation.Donation">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <!-- Title Section -->
+            <TextView
+                android:id="@+id/donate_now_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DONATE NOW"
+                android:textStyle="bold"
+                android:textSize="26sp"
+                android:textColor="@color/lightgreen"
+                android:layout_marginBottom="16dp"
+                android:fontFamily="sans-serif-medium"
+                android:letterSpacing="0.05"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/donation_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NPS Champs highly appreciates any donation you make that will change the lives of people, and help those in need."
+                android:textSize="16sp"
+                android:gravity="center"
+                android:layout_marginBottom="24dp"
+                android:paddingHorizontal="32dp"
+                android:lineSpacingExtra="4dp"/>
+
+            <!-- Zapper Donation Card -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_zapper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="8dp"
+                android:padding="16dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="6dp"
+                android:backgroundTint="@color/darkgreen"
+                android:layout_gravity="center">
+
+                <LinearLayout
+                    android:id="@+id/zapper_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/qr_code_image"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/img"
+                        android:contentDescription="QR Code"
+                        android:layout_marginTop="8dp"/>
+
+                    <TextView
+                        android:id="@+id/zapper_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Zapper"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"
+                        android:layout_marginTop="12dp"/>
+
+                    <TextView
+                        android:id="@+id/zapper_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Scan QR code to Pay or Click on the phone image if you're viewing on your mobile, can forward your Proof of Payment to info@NpsChamps.org.za"
+                        android:textSize="13sp"
+                        android:textColor="@android:color/white"
+                        android:gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:paddingHorizontal="16dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- EFT Donation Card -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card_eft"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:padding="16dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="6dp"
+                android:backgroundTint="@color/darkgreen"
+                android:layout_gravity="center">
+
+                <LinearLayout
+                    android:id="@+id/eft_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:id="@+id/eft_image"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/eft"
+                        android:contentDescription="EFT/Cash Deposit"
+                        android:layout_marginTop="8dp"/>
+
+                    <TextView
+                        android:id="@+id/eft_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="EFT/Cash Deposit"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"
+                        android:layout_marginTop="12dp"/>
+
+                    <TextView
+                        android:id="@+id/eft_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="BANK: Nedbank\nACCOUNT NAME: NPS Champions NPC\nACCOUNT TYPE: Current Account\nBRANCH CODE: 198765\nACCOUNT NUMBER: 1204162700\nREFERENCE: [Name + Surname]"
+                        android:textSize="14sp"
+                        android:textColor="@android:color/white"
+                        android:gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:paddingHorizontal="16dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:id="@+id/bible_verse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:lineSpacingExtra="4dp"
+                android:paddingHorizontal="32dp"
+                android:text="“Whoever is generous to the poor lends to the Lord, and he will repay him for his deed.”\nProverbs 19:17"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>
