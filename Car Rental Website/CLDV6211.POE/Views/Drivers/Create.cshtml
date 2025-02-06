@@ -1,0 +1,54 @@
+﻿@model CLDV6211.POE.Models.Driver
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Driver</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DriverNo" class="control-label"></label>
+                <input asp-for="DriverNo" class="form-control" />
+                <span asp-validation-for="DriverNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DriverName" class="control-label"></label>
+                <input asp-for="DriverName" class="form-control" />
+                <span asp-validation-for="DriverName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DrAddress" class="control-label"></label>
+                <input asp-for="DrAddress" class="form-control" />
+                <span asp-validation-for="DrAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DrEmail" class="control-label"></label>
+                <input asp-for="DrEmail" class="form-control" />
+                <span asp-validation-for="DrEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DrMobile" class="control-label"></label>
+                <input asp-for="DrMobile" class="form-control" />
+                <span asp-validation-for="DrMobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\wwwroot\\images\\in.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\wwwroot\\images\\in.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\wwwroot\\images\\bb.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\wwwroot\\images\\bb.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\wwwroot\\images\\2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\wwwroot\\images\\2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\models\\inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\models\\inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\models\\carmake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\models\\carmake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\models\\carbodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\models\\carbodytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\controllers\\carbodytypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\controllers\\carbodytypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\controllers\\carmakescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\controllers\\carmakescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\migrations\\20230626165839_secondmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\migrations\\20230626165839_secondmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\migrations\\20230626150425_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\migrations\\20230626150425_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\controllers\\returncarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\controllers\\returncarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\controllers\\inspectorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\controllers\\inspectorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\models\\returncar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\models\\returncar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|c:\\users\\ebmoe\\onedrive\\documents\\documents\\github\\my-projects\\car rental website\\cldv6211.poe\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29698188-619E-450B-B261-DBD139E40B6D}|CLDV6211.POE\\CLDV6211.POE.csproj|solutionrelative:cldv6211.poe\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "in.png",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\images\\in.png",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\wwwroot\\images\\in.png",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\images\\in.png",
+              "RelativeToolTip": "CLDV6211.POE\\wwwroot\\images\\in.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-30T10:52:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bb.png",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\images\\bb.png",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\wwwroot\\images\\bb.png",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\images\\bb.png",
+              "RelativeToolTip": "CLDV6211.POE\\wwwroot\\images\\bb.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-30T10:52:51.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2.png",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\images\\2.png",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\wwwroot\\images\\2.png",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\images\\2.png",
+              "RelativeToolTip": "CLDV6211.POE\\wwwroot\\images\\2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-30T10:52:50.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CLDV6211.POE\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-30T10:52:47.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "CLDV6211.POE\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:51:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "CLDV6211.POE\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:51:46.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "CLDV6211.POE\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:49:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CLDV6211.POE\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:49:35.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CLDV6211.POE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:49:26.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CLDV6211.POE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:48:10.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20230626165839_secondmig.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Migrations\\20230626165839_secondmig.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Migrations\\20230626165839_secondmig.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Migrations\\20230626165839_secondmig.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Migrations\\20230626165839_secondmig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20230626150425_firstmig.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Migrations\\20230626150425_firstmig.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Migrations\\20230626150425_firstmig.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Migrations\\20230626150425_firstmig.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Migrations\\20230626150425_firstmig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "CLDV6211.POE\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:48:10.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarBodyTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\CarBodyTypesController.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Controllers\\CarBodyTypesController.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\CarBodyTypesController.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Controllers\\CarBodyTypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarMakesController.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\CarMakesController.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Controllers\\CarMakesController.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\CarMakesController.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Controllers\\CarMakesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Controllers\\DriversController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InspectorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\InspectorsController.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Controllers\\InspectorsController.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\InspectorsController.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Controllers\\InspectorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReturnCarsController.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\ReturnCarsController.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Controllers\\ReturnCarsController.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\ReturnCarsController.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Controllers\\ReturnCarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Controllers\\RentalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReturnCar.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\ReturnCar.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Models\\ReturnCar.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\ReturnCar.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Models\\ReturnCar.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Rental.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Models\\Rental.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inspector.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Inspector.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Models\\Inspector.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Inspector.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Models\\Inspector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Driver.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarMake.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\CarMake.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Models\\CarMake.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\CarMake.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Models\\CarMake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarBodyType.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\CarBodyType.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Models\\CarBodyType.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\CarBodyType.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Models\\CarBodyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Models\\Car.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Models\\Car.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\appsettings.json",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\appsettings.json",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\appsettings.json",
+              "RelativeToolTip": "CLDV6211.POE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T10:48:10.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "CLDV6211.POE\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-30T10:48:10.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Program.cs",
+              "RelativeDocumentMoniker": "CLDV6211.POE\\Program.cs",
+              "ToolTip": "C:\\Users\\ebmoe\\OneDrive\\Documents\\Documents\\GitHub\\My-Projects\\Car Rental Website\\CLDV6211.POE\\Program.cs",
+              "RelativeToolTip": "CLDV6211.POE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:10.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
