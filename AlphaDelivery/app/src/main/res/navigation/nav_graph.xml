@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.alpha.alphadelivery.FirstFragment"
+        android:name="com.alpha.alphadelivery.first"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
@@ -15,6 +15,7 @@
             android:id="@+id/action_FirstFragment_to_SecondFragment"
             app:destination="@id/SecondFragment" />
     </fragment>
+
     <fragment
         android:id="@+id/SecondFragment"
         android:name="com.alpha.alphadelivery.SecondFragment"
@@ -25,4 +26,12 @@
             android:id="@+id/action_SecondFragment_to_FirstFragment"
             app:destination="@id/FirstFragment" />
     </fragment>
+
+    <!-- 🔥 Add FragmentTrack here -->
+    <fragment
+        android:id="@+id/navigation_track"
+        android:name="com.alpha.alphadelivery.FragmentTrack"
+        android:label="@string/track"
+        tools:layout="@layout/fragment_track" />
+
 </navigation>

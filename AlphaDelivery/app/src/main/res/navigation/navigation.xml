@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/navigation_track"
-        android:name="com.alpha.alphadelivery.fragment_track"
+        android:name="com.alpha.alphadelivery.FragmentTrack"
         android:label="Track"
         tools:layout="@layout/fragment_track" />
 

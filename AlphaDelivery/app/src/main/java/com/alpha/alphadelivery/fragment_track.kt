@@ -14,30 +14,35 @@ import com.google.android.gms.maps.model.MarkerOptions
 
 class FragmentTrack : Fragment(), OnMapReadyCallback {
 
-    private lateinit var mMap: GoogleMap
+    private var mMap: GoogleMap? = null
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
         val view = inflater.inflate(R.layout.fragment_track, container, false)
 
-        // Initialize the map fragment
-        val mapFragment = childFragmentManager.findFragmentById(R.id.map) as? SupportMapFragment
-        mapFragment?.getMapAsync(this)
+        // Dynamically load the map fragment
+        val mapFragment = childFragmentManager.findFragmentById(R.id.map_fragment_container)
+                as? SupportMapFragment ?: SupportMapFragment.newInstance()
+
+        if (mapFragment !is SupportMapFragment) {
+            childFragmentManager.beginTransaction()
+                .replace(R.id.map_fragment_container, mapFragment)
+                .commit()
+        }
+
+        mapFragment.getMapAsync(this)
 
         return view
     }
 
-    // This is the callback to receive the map when it's ready
     override fun onMapReady(googleMap: GoogleMap) {
         mMap = googleMap
 
-        // Add a marker in a specific location and move the camera
+        // Set default location to Sydney
         val sydney = LatLng(-34.0, 151.0)
-        mMap.addMarker(MarkerOptions().position(sydney).title("Marker in Sydney"))
-        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney, 10f))
+        mMap?.addMarker(MarkerOptions().position(sydney).title("Marker in Sydney"))
+        mMap?.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney, 10f))
     }
 }
-
