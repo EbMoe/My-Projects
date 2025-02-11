@@ -2,6 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.AlphaDelivery" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">#8B52FE</item> <!-- Replace with your desired color -->
+
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
