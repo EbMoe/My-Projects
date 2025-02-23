@@ -1,7 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+    <!-- Base application theme for night mode (dark theme). -->
     <style name="Base.Theme.AviatorView" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Use true black (#000000) for the background in dark mode -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="colorSurface">@android:color/black</item>
+        <item name="colorOnSurface">#FFFFFF</item> <!-- White text for readability on black -->
+        <item name="colorPrimary">#1C61AD</item> <!-- Example purple for dark mode, adjust as needed -->
+        <item name="colorOnPrimary">#000000</item> <!-- Black text/icon on primary for dark mode -->
+        <item name="android:textColor">#FFFFFF</item> <!-- White text for dark mode -->
     </style>
 </resources>

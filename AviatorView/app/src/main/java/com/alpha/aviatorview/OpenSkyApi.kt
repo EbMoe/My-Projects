@@ -5,7 +5,5 @@ import retrofit2.http.GET
 
 interface OpenSkyApi {
     @GET("states/all")
-    suspend fun getFlights(): Response<FlightData>
+    suspend fun getFlights(): Response<OpenSkyResponse>  // Return OpenSkyResponse, NOT FlightData
 }
-
-data class FlightData(val states: List<List<Any>>)
