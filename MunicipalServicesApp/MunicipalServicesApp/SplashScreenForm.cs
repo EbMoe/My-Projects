@@ -24,6 +24,7 @@ namespace MunicipalServicesApp
         {
             base.OnShown(e);
             // Display the splash screen for 3 seconds
+            //test
             await Task.Delay(3000);
             this.Close();
         }
